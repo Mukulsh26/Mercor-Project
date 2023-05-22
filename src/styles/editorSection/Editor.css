@@ -1,0 +1,7 @@
+.editor {
+  flex: 1;
+  overflow: scroll;
+  margin: 50px 50px 0px 50px;
+  background-color: white;
+  border: 1px solid rgb(183, 180, 180);
+}
